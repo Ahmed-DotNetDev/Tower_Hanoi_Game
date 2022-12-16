@@ -1,0 +1,15 @@
+D:\Tower Of Hanio\Tower_of_hanoi\Tower_of_hanoi\bin\Debug\net6.0\Tower_of_hanoi.exe
+D:\Tower Of Hanio\Tower_of_hanoi\Tower_of_hanoi\bin\Debug\net6.0\Tower_of_hanoi.deps.json
+D:\Tower Of Hanio\Tower_of_hanoi\Tower_of_hanoi\bin\Debug\net6.0\Tower_of_hanoi.runtimeconfig.json
+D:\Tower Of Hanio\Tower_of_hanoi\Tower_of_hanoi\bin\Debug\net6.0\Tower_of_hanoi.dll
+D:\Tower Of Hanio\Tower_of_hanoi\Tower_of_hanoi\bin\Debug\net6.0\Tower_of_hanoi.pdb
+D:\Tower Of Hanio\Tower_of_hanoi\Tower_of_hanoi\obj\Debug\net6.0\Tower_of_hanoi.csproj.AssemblyReference.cache
+D:\Tower Of Hanio\Tower_of_hanoi\Tower_of_hanoi\obj\Debug\net6.0\Tower_of_hanoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tower Of Hanio\Tower_of_hanoi\Tower_of_hanoi\obj\Debug\net6.0\Tower_of_hanoi.AssemblyInfoInputs.cache
+D:\Tower Of Hanio\Tower_of_hanoi\Tower_of_hanoi\obj\Debug\net6.0\Tower_of_hanoi.AssemblyInfo.cs
+D:\Tower Of Hanio\Tower_of_hanoi\Tower_of_hanoi\obj\Debug\net6.0\Tower_of_hanoi.csproj.CoreCompileInputs.cache
+D:\Tower Of Hanio\Tower_of_hanoi\Tower_of_hanoi\obj\Debug\net6.0\Tower_of_hanoi.dll
+D:\Tower Of Hanio\Tower_of_hanoi\Tower_of_hanoi\obj\Debug\net6.0\refint\Tower_of_hanoi.dll
+D:\Tower Of Hanio\Tower_of_hanoi\Tower_of_hanoi\obj\Debug\net6.0\Tower_of_hanoi.pdb
+D:\Tower Of Hanio\Tower_of_hanoi\Tower_of_hanoi\obj\Debug\net6.0\Tower_of_hanoi.genruntimeconfig.cache
+D:\Tower Of Hanio\Tower_of_hanoi\Tower_of_hanoi\obj\Debug\net6.0\ref\Tower_of_hanoi.dll
